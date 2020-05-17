@@ -1,2 +1,4 @@
 # hello-world
-first attempt, wish me luck
+just another repository
+I love to push the limits and tend to go overboard at times
+smh
